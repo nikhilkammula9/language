@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: My blog for learning a new language
 ---
 
