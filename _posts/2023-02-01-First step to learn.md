@@ -14,7 +14,7 @@ Here is how I started it. I'm using ChatGPT to help me with the learning process
 
 -main method must be started with **{** and ended with **}** 
 
-3. The syntax we use for print statement is **System.out.print("**OUR PRINT STATEMENTS ");** 
+3. The syntax we use for print statement is **System.out.print("OUR PRINT STATEMENTS ");** 
 
 For these Print Statements what I learnt is  
 
