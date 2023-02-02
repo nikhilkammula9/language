@@ -8,14 +8,18 @@ Here is how I started it. I'm using ChatGPT to help me with the learning process
 
 - Example is if a class name is **FirstProgram** then the Filename should be **FirstProgram.java** 
 
- 2. The main method should be written under a class, and it must be written for any application. In my first program I used '''public static void main(String[] args){ }'''  
-
+ 2. The main method should be written under a class, and it must be written for any application. In my first program I used 
+``` 
+public static void main(String[] args){ }
+```
 -It only accepts strings here in this case 
 
 -main method must be started with **{** and ended with **}** 
 
-3. The syntax we use for print statement is **System.out.print("OUR PRINT STATEMENTS ");** 
-
+3. The syntax we use for print statement is 
+```
+System.out.print("OUR PRINT STATEMENTS "); 
+```
 For these Print Statements what I learnt is  
 
 - while executing my first program is that System is case sensitive 
@@ -24,11 +28,18 @@ For these Print Statements what I learnt is
 
 - If we use **System.out.println** instead of **System.out.print** we get statement in a different line. 
 
-4. We can write comments in java program by using **//** for single line comments and  /* …. */  for multiple lines. 
+4. We can write comments in java program by using // for _single line_ comments and /* */ for _multiple lines_. 
 
-5. For compiling the file we use javac '''Filename.java '''
+5. For compiling the file we use  
+```
+javac Filename.java
+```
 
-6. or executing the file we use '''java filename''' (here we filename.java because after compilation, **.java** is converted to **.class** file) 
+6. or executing the file we use 
+```
+java filename
+``` 
+(here we filename.java because after compilation, **.java** is converted to **.class** file) 
 
 Here is the link to my  [FirstProgram.](https://github.com/nikhilkammula9/language/blob/main/Progress/FirstProgram.java) 
 
