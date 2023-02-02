@@ -43,7 +43,7 @@ java filename
 
 Here is the link to my  [FirstProgram.](https://github.com/nikhilkammula9/language/blob/main/Progress/FirstProgram.java) 
 
-Few Instructions given by chatGPT 
+I'm also adding few Instructions given by chatGPT 
 
 [Steps to learn Java](https://github.com/nikhilkammula9/language/blob/main/Notes/getting%20started%20Notes) 
 
