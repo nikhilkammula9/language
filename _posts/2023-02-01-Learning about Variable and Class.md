@@ -28,10 +28,11 @@ Few notes :
 
 
 After learning about the variables, I have learnt about the Class and Objects in Java. 
-Few takeaways are
+Few takeaways are:
 
-1. Constructor method is used to create objects of a class 
-2. In class instance are created
+1. Constructor method is used to create objects of a class. 
+2. In class instance are created.
+
 ```
 Example 
 public class Register {
@@ -46,7 +47,8 @@ public class Register {
   }
 }
 ```
-4. new keyword is used in order to create a new object of a class
+
+4. new keyword is used in order to create a new object of a class.
 
 ```
 ClassName instanceName = new Classame(parameters);
@@ -58,7 +60,6 @@ ClassName instanceName = new Classame(parameters);
         2. An instance of a class is created, which causes a switch from the main() method to the class constructor 
         3. The code inside the class constructor is executed
         4. Once the class constructor finishes running, control returns to the main() method.
- I have practised these linking one of the example [Here]https://github.com/nikhilkammula9/language/blob/main/Progress/Car.java
- 
+ I have practised these linking one of the example [Here] https://github.com/nikhilkammula9/language/blob/main/Progress/Car.java
  
 
