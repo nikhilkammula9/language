@@ -30,7 +30,7 @@ Few notes :
 After learning about the variables, I have learnt about the Class and Objects in Java. 
 Few takeaways are:
 
-1. Constructor method is used to create objects of a class. 
+1. **Constructor** method is used to create objects of a class. 
 2. In class instance are created.
 
 ```
@@ -48,18 +48,20 @@ public class Register {
 }
 ```
 
-4. new keyword is used in order to create a new object of a class.
+4. **new** keyword is used in order to create a new object of a class.
 
 ```
 ClassName instanceName = new Classame(parameters);
 ```
 6. Constructor parameters should be same as the instance variables in the class.
 7. We can have as many instances as we want as long as the parameter should match with the variables.
-8. This is order a genral program runs 
+8. This is order how a basic program runs 
         1. The program is executed by running the main() method
         2. An instance of a class is created, which causes a switch from the main() method to the class constructor 
         3. The code inside the class constructor is executed
         4. Once the class constructor finishes running, control returns to the main() method.
- I have practised these linking one of the example [Here] https://github.com/nikhilkammula9/language/blob/main/Progress/Car.java
+ I practised with many program but i'm posting the link to one of the example [Here] https://github.com/nikhilkammula9/language/blob/main/Progress/Car.java
+ 
+ I recently started learning about methods in Java and am having trouble understanding them. I want to build a calculator program but I haven't been able to finish it this week. However, I plan to complete it next week while also studying the concepts of Conditional and Control flow.
  
 
