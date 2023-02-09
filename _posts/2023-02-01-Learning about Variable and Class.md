@@ -46,10 +46,8 @@ public class Register {
   }
 }
 ```
-
 4. new keyword is used in order to create a new object of a class
-```
-ClassName instanceName = new Classame(parameters);
+```ClassName instanceName = new Classame(parameters);
 ```
 6. Constructor parameters should be same as the instance variables in the class.
 7. We can have as many instances as we want as long as the parameter should match with the variables.
