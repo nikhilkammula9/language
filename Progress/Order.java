@@ -43,7 +43,7 @@ public class Order {
  	}
   
   public static void main(String[] args) {
-    // create instances and call methods here!
+
  Order myOrder = new Order(true,10.00,"Regular");
  
 
