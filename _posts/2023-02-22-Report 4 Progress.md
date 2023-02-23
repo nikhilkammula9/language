@@ -9,3 +9,7 @@ Example : String[] Articles = {"Oil", "Invention", "Computers", "Vegetables", "U
     double[] Ratings = {2.5, 3.2, 5.0, 1.7, 4.3};
 ```
 In java we use **import java.util.Arrays;** to import Array packages
+For Printing the above String we use toString() method which is available in Array Package
+My Practice [Program] https://github.com/nikhilkammula9/language/blob/main/Progress/Newsfeed.java
+
+
