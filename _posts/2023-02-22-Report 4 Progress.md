@@ -27,4 +27,4 @@ Once size is declared, we cannot change it! This array is always size 2.
 
 Another small Practice program is [classroomExample]https://github.com/nikhilkammula9/language/blob/main/Progress/Classroom.java
 
-I had a hard time understanding the arguments passsed on the arrays. By looking severals videos on the youtube I understood them.
+I had a hard time understanding the arguments passsed on the arrays. By looking severals videos on the youtube I understood them. I had to complete arrayslists this week but i couldnt because it was complex for me at this time. Hope i could complete learning arraylist by next week
