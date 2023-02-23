@@ -41,4 +41,5 @@ Few Notes on ArrayList:
 - to find a certain element's index we use .indexOf().
 
 My Practice for [ArrayList]https://github.com/nikhilkammula9/language/blob/main/Progress/Playlist.java
+
 I had a hard time understanding the arguments passsed on the arrays. By looking severals videos on the youtube I understood them.
