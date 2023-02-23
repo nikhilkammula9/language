@@ -17,6 +17,8 @@ For example, if we have an array named myArray containing integers, and we want 
 int[] myA = {10, 20, 30, 40, 50};
 int value = myA[1];
 ```
+The starting index is 0 and ends with one number less than no. of elements in arrays.
+If we try to reach the index out of array then we get **ArrayIndexOutOfBoundsException** error
 
 
 
