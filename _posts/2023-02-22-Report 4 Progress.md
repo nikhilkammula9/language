@@ -27,4 +27,11 @@ Once size is declared, we cannot change it! This array is always size 2.
 
 Another small Practice program is [classroomExample]https://github.com/nikhilkammula9/language/blob/main/Progress/Classroom.java
 
-I had a hard time understanding the arguments passsed on the arrays. By looking severals videos on the youtube I understood them. I had to complete arrayslists this week but i couldnt because it was complex for me at this time. Hope i could complete learning arraylist by next week
+I had a hard time understanding the arguments passsed on the arrays. By looking severals videos on the youtube I understood them. 
+Few Notes on ArrayList:
+- An ArrayList is a collection in Java that can hold a group of objects.
+- We use ArrayLists **import java.util.ArrayList;** to improt Array List packages
+- to add an item to a list we use .add() [Practise]https://github.com/nikhilkammula9/language/blob/main/Progress/ToDos.java
+- We can add to a certain index to an array by .add(**Index**, **item**);
+- We use .size() for arrayList just as we use .length in arrays
+- To get a value in array we use arrayName[indexNumber] but for Array List we use **.get()** to to get a value of an ArrayList at a certain index
