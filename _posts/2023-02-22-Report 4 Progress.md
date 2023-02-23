@@ -19,6 +19,10 @@ int value = myA[1];
 ```
 The starting index is 0 and ends with one number less than no. of elements in arrays.
 If we try to reach the index out of array then we get **ArrayIndexOutOfBoundsException** error
+Also we create empty arrays and then fill the array. Empty arrays have to be initialized with a fixed size:
+String[] menuItems = new String[2];
+Once size is declared, we cannot change it! This array is always size 2.
+"ArrayName.length" gives length of the array.
 
 
 
