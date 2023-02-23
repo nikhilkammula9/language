@@ -11,5 +11,12 @@ Example : String[] Articles = {"Oil", "Invention", "Computers", "Vegetables", "U
 In java we use **import java.util.Arrays;** to import Array packages
 For Printing the above String we use toString() method which is available in Array Package
 My Practice [Program] https://github.com/nikhilkammula9/language/blob/main/Progress/Newsfeed.java
+we use square brackets, [ and ], to access or retrieve data stored at a specific index or position within an array.
+For example, if we have an array named myArray containing integers, and we want to access the value stored at the second position (index 1) in the array, we can do so by using square brackets as follows:
+```
+int[] myA = {10, 20, 30, 40, 50};
+int value = myA[1];
+```
+
 
 
