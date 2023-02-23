@@ -35,3 +35,7 @@ Few Notes on ArrayList:
 - We can add to a certain index to an array by .add(**Index**, **item**);
 - We use .size() for arrayList just as we use .length in arrays
 - To get a value in array we use arrayName[indexNumber] but for Array List we use **.get()** to to get a value of an ArrayList at a certain index
+- To replace an element in an arrayList instead of add or removing it we use **.set()** for arrayList.
+- .set() doesn't change the size of an ArrayList.
+- .remove() is used to remove an element from an Array List.
+- to find a certain element's index we use .indexOf().
