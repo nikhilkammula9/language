@@ -25,4 +25,5 @@ Once size is declared, we cannot change it! This array is always size 2.
 "ArrayName.length" gives length of the array.
 [Example]https://github.com/nikhilkammula9/language/blob/main/Progress/Newsfeed1.java
 
+Another small Practice program is [classroomExample]https://github.com/nikhilkammula9/language/blob/main/Progress/Classroom.java
 
