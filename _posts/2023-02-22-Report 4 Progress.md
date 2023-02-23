@@ -39,3 +39,6 @@ Few Notes on ArrayList:
 - .set() doesn't change the size of an ArrayList.
 - .remove() is used to remove an element from an Array List.
 - to find a certain element's index we use .indexOf().
+
+My Practice for [ArrayList]https://github.com/nikhilkammula9/language/blob/main/Progress/Playlist.java
+I had a hard time understanding the arguments passsed on the arrays. By looking severals videos on the youtube I understood them.
