@@ -26,4 +26,5 @@ we use the continue keyword to skip an iteration in a loop. When the continue ke
 
 [Example]https://github.com/nikhilkammula9/language/blob/main/Progress/Continue.java
 
+I'm finding it diffcult in understanding for-each loop which I hope I could get through it until next week where i also learn about string methods.
 
