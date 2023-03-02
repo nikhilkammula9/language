@@ -12,3 +12,18 @@ for (int i = 0; i < 5; i++) {
 Partice [example]https://github.com/nikhilkammula9/language/blob/main/Progress/Hi.java   
 We can also use loops for arrays. Just make sure that the index of the last item in an array is length less than one.I have practised arrays in this [example]https://github.com/nikhilkammula9/language/blob/main/Progress/CalculateTotal.java 
 
+we use the break and continue keywords to modify the behavior of loops. The break keyword is used to completely stop, or "break out of", a loop before it has finished all of its iterations. Essentially, when the break keyword is executed, the loop immediately stops running and program execution continues with the code following the loop.
+```
+for (int i = 0; i < 10; i++) {
+  System.out.println(i);
+  if (i == 8) {
+    break;
+  }
+}
+```
+
+we use the continue keyword to skip an iteration in a loop. When the continue keyword is encountered inside a loop, the current iteration will immediately end, and the next iteration will begin. This allows us to skip over certain iterations of the loop that we do not want to execute. For example, if we only want to execute the odd-numbered iterations of a loop, we can use the continue keyword to skip any even-numbered iterations.
+
+[Example]https://github.com/nikhilkammula9/language/blob/main/Progress/Continue.java
+
+
