@@ -10,4 +10,5 @@ for (int i = 0; i < 5; i++) {
 }
 ```
 Partice [example]https://github.com/nikhilkammula9/language/blob/main/Progress/Hi.java   
+We can also use loops for arrays. Just make sure that the index of the last item in an array is length less than one.I have practised arrays in this [example]https://github.com/nikhilkammula9/language/blob/main/Progress/CalculateTotal.java 
 
